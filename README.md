@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohd Atif
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Software Development Opportunities.
 - 🌱 I’m currently learning Backend Web Dev. 
 
 <!---
